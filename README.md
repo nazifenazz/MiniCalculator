@@ -14,7 +14,6 @@ When the program runs:
 Java
 Scanner class for input handling
 switch-case structure
-## Example Output
 ## License
 This project is licensed under the MIT License.
 
